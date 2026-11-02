@@ -1,0 +1,12 @@
+# Build output and IDE caches
+**/bin/
+**/obj/
+**/.vs/
+.vscode/
+*.user
+*.suo
+
+# Compressed submission copies
+*.rar
+*.zip
+*.7z
